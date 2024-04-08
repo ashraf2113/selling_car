@@ -1,0 +1,13 @@
+<odoo>
+    <menuitem
+        id="relstate_root_menu"
+        name="relstate"
+        sequence="0"/>
+
+    <menuitem
+       id="tag_menu"
+       name="tag"
+       parent="relstate_root_menu"
+       sequence="0"/>
+
+</odoo>
